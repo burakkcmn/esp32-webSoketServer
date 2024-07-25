@@ -10,7 +10,7 @@ This project creates a WebSocket server on an ESP32 to display sensor readings f
 - [Usage](#usage)
 - [Web Interface](#web-interface)
 - [License](#license)
-
+- [Acknowledgments](#acknowledgments)
 ## Introduction
 This project uses an ESP32 to read data from a BME280 sensor and serve these readings over a WebSocket connection to a web dashboard. The dashboard updates every 3 seconds with the latest sensor readings.
 
